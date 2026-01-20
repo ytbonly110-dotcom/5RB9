@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ClipCanvas: YT Banner Creator",
+  "description": "A high-end YouTube banner generator specifically designed for clips channels, using Gemini to create high-impact, professional visuals with safe-zone previews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
